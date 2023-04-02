@@ -166,7 +166,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Pull your image</h2></summary>
 
 _Now things are running! :sparkles:_
@@ -217,7 +217,7 @@ If everything went well, :crossed_fingers: you should see `Login Succeeded` in y
   Define terms and link to docs.github.com.
 -->
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Run your image</h2></summary>
 
 _Nicely done grabbing your Docker image! :relaxed:_
